@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.shizhefei/ViewPagerIndicator/1.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ad4dfc3dd592d20695f6178337d333f1981dd55">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.shizhefei-ViewPagerIndicator-1.1.4_11eb77e04ea53467e2ea7aa1fa141140b21fc649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_730d4553d617aa17da859e50cceece223b29ff38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.4/cbcf91e47e43607fb628b11b3571f212f11a6f84/rxjava-2.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cbcf91e47e43607fb628b11b3571f212f11a6f84">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.4_605ae5dd34ea2f0b8a6c61f42369dc4236701f83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_4ed2019a6c3c13bdaee80d776a4149b40ea3c969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-1.1_222933c48469b22638582cd9f8b27efd8e642ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_631a34dbd6049ab0c9c289e78a0b38c3224da927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.leakcanary-leakcanary-android-1.3_54de6f0a829460ab64110e34f825ec8475fe9bc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c0d6fd3a9ae2785d41e00949eadca4542bab1aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_437e85c525c320eea51f720fc414d357850a6449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_bbf7696219237a8161814978fe78aabab6b470ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c98f20c22e063d07c5359d2b39030f92387c4ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_0b8398a733639d5c374b2e96783b2bf23f03e744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_0cd2d5fc040af1a5ab4e733ddab1efd9a7bb0d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.3_665eec682f9300f2f501550ab6aa50fcfc77aa46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_a9fccd2c1cba9ea6e44f243e52d448c34288ecd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.3_4b5b7fea4c81180f51098ce58ee0055a1e04c85f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_2eb2cf97010fbb2177deabe6079231b2182085bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dff51e54a3250b8bcd80e8b7acbadc521ec4ff02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_911838a255499069333f8d783b1a7a0a7f39d84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="89aa436541364f39ef19c53914489ede49c3d427">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb40a88d75031de0396650848f116a9f9c3e1d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_bb4996ae39217dbef8f44707b33b3e35a8329813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha5/constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha5_779d46ffaca445f1876667f677b91841809ab414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_351e443585ed9e18820ed7b321ddfc8b99fe6613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0fa5ba8eddcc027ba3b85e26aabbd0e1d4ad6dd">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_faa102d2a0fb080eb47dcbfcf1074489c6400e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_168b3caf3a6f0621e2ad8682854436afdf78fa9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha5_3949a3bc4ef3cc285968f47bc55b99cafd51b780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_79b0faefe9c22dfb82e03a2559180cfbb948ec38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/libin/yingdi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/libin/yingdi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_4d2eb18a0e7f449ec482c1d96e53fb45114c4afe/classes.dex" />
+    </item>
+
+</items>
